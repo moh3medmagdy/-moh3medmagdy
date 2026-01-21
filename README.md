@@ -90,9 +90,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **example@email.com**
-- 💬 Telegram: **https://t.me/USERNAME**
-- 🧑‍💻 GitHub: **https://github.com/USERNAME_HERE**
+- 📧 Email: **mohamedmagdy12277@email.com**
+- 💬 Telegram: **https://t.me/Mohamed Magdy**
+- 🧑‍💻 GitHub: **https://github.com/moh3medmagdy**
 
 ---
 
