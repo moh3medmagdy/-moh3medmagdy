@@ -91,7 +91,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: **mohamedmagdy12277@email.com**
-- 💬 Telegram: **https://t.me/MohamedMagdy**
+- 💬 Telegram: **https://t.me/mohamedmagdy52**
 - 🧑‍💻 GitHub: **https://github.com/moh3medmagdy**
 
 ---
